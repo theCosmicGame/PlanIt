@@ -14,7 +14,7 @@ const StyledToolbar = styled(Toolbar)`
   flex-wrap: wrap;
   justify-content: space-between;
   opacity: 1;
-  font-family: Barlow, sans-serif;
+  font-family: "basic-sans", sans-serif;
 
   @media screen and (max-width: 991px) {
     display: -webkit-box;
@@ -66,7 +66,7 @@ const StyledToolbar = styled(Toolbar)`
     align-items: center;
     
     opacity: 1;
-    font-family: Barlow, sans-serif;
+    font-family: "basic-sans", sans-serif;
 
     @media screen and (max-width: 991px) {
       width: 100%;
